@@ -30,3 +30,5 @@ C:\Users\Adam\Desktop\SummerSchoolAPIProject\CommandAPISolution\src\CommandAPI\b
 C:\Users\Adam\Desktop\SummerSchoolAPIProject\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.dll
 C:\Users\Adam\Desktop\SummerSchoolAPIProject\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Adam\Desktop\SummerSchoolAPIProject\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
+C:\Users\Adam\Desktop\SummerSchoolAPIProject\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Adam\Desktop\SummerSchoolAPIProject\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
